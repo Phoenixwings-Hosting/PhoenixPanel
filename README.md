@@ -1,7 +1,7 @@
 # PhoenixDash BETA v1.0.0 #
 **The official dashboard of Phoenixwings hosting!**
 
-## Update `BETA - v1.0.0 ##
+## Update `BETA - v1.0.0` ##
 ```Fixes & Upgrades:
 - Sidebar Upgraded
 - Linkvertise Fixed
