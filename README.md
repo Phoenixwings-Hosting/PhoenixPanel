@@ -10,7 +10,7 @@
 ```
 
 ## Dashboard Features ##
-``All features: 
+```All features: 
 - Resource Management (Use it to create servers, gift them, etc)
 - Coins (AFK Page earning, Linkvertise earning, Gift them away)
 - Renewal (Require coins for renewal)
